@@ -1,4 +1,4 @@
 # motchallenge-devkit-expension
 motchallenge-devkit is expended for MOT2020
 
-hallow
+This tool is modfied from motchallenge-devkit：https://bitbucket.org/amilan/motchallenge-devkit/src/default/
