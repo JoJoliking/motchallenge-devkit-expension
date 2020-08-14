@@ -1,0 +1,2 @@
+benchmarkGtDir = 'H:\Èí¼þ\MOT20\MOT20\train\';
+[allMets, metsBenchmark] = evaluateTracking('c2-test.txt', 'G:\MOT2020train\', benchmarkGtDir, 'MOT20');                                                                   
